@@ -1,3 +1,3 @@
-const BASE_URL = "https://food-app-server-side.vercel.app";
+const BASE_URL = "https://food-app-pi-mauve.vercel.app";
 
 export default BASE_URL;
